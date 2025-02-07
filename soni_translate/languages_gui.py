@@ -45,7 +45,7 @@ language_data = {
 
         ---
 
-        # 🧩 **SoniTranslate supports different TTS (Text-to-Speech) engines, which are:**
+        # 🧩 **Youtube Video Translator supports different TTS (Text-to-Speech) engines, which are:**
         - EDGE-TTS → format `en-AU-WilliamNeural-Male` → Fast and accurate.
         - FACEBOOK MMS → format `en-facebook-mms VITS` → The voice is more natural; at the moment, it only uses CPU.
         - PIPER TTS → format `en_US-lessac-high VITS-onnx` → Same as the previous one, but it is optimized for both CPU and GPU.
