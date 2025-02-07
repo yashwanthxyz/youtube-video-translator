@@ -26,7 +26,7 @@ news = """ ## 📖 News
 language_data = {
     "english": {
         "description": """
-        ### **Translate videos easily with Youtube Video Downloader!**
+        ### **Translate videos easily with Youtube Video Translator!**
 
         Upload a video, subtitle, audio file or provide a URL video link.
 
