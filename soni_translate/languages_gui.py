@@ -26,11 +26,11 @@ news = """ ## 📖 News
 language_data = {
     "english": {
         "description": """
-        ### 🎥 **Translate videos easily with SoniTranslate!** 📽️
+        ### **Translate videos easily with Youtube Video Downloader!**
 
-        Upload a video, subtitle, audio file or provide a URL video link. 📽️ **Gets the updated notebook from the official repository.: [SoniTranslate](https://github.com/R3gm/SoniTranslate)!**
+        Upload a video, subtitle, audio file or provide a URL video link.
 
-        See the tab `Help` for instructions on how to use it. Let's start having fun with video translation! 🚀🎉
+        See the tab `Help` for instructions on how to use it. Let's start having fun with video translation!
         """,
         "tutorial": """
         # 🔰 **Instructions for use:**
